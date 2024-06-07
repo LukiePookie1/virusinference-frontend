@@ -4,8 +4,6 @@ This is the frontend application for VirusInference.com, a web platform that ana
 
 ## Table of Contents
 - [Technologies Used](#technologies-used)
-- [Installation and Setup](#installation-and-setup)
-- [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Features](#features)
 - [License](#license)
@@ -21,3 +19,12 @@ This is the frontend application for VirusInference.com, a web platform that ana
 
 ### Prerequisites
 
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact Information
+For any questions or feedback, please reach out to:
+- **Name**: Luke Rappa
+- **Email**: [luke@virusinference.com](mailto:luke@virusinference.com)
+- **GitHub**: [LukiePookie1](https://github.com/LukiePookie1)
