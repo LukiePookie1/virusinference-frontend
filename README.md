@@ -1,6 +1,6 @@
 # virusinference.com Frontend
-
-This is the frontend application for VirusInference.com, a web platform that analyzes uploaded files and text using machine learning (binary classification and anomaly detection) to determine if they are malware or benign. The frontend is built using Vue 3, TypeScript, HTML, and SASS CSS.
+**Website**: https://www.virusinference.com
+- This is the frontend application for VirusInference.com, a web platform that analyzes uploaded files and text using machine learning (binary classification and anomaly detection) to determine if they are malware or benign. The frontend is built using Vue 3, TypeScript, HTML, and SASS CSS.
 
 ## Table of Contents
 - [Technologies Used](#technologies-used)
